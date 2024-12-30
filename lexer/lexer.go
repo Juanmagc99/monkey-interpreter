@@ -2,6 +2,7 @@ package lexer
 
 import "juanmagc99/monkey-interpreter/token"
 
+//comentario random
 type Lexer struct {
 	input        string
 	position     int
